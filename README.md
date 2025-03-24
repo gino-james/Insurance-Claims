@@ -12,8 +12,8 @@ User-Friendly Input Fields – Easily enter claim details to generate prediction
 Python, Streamlit, Pandas, NumPy, Matplotlib, Seaborn
 Machine Learning 
 # models used
-Random Forest Classifier
-Logistic Regression
-Decision Tree
-Linear Regression
+Random Forest Classifier,
+Logistic Regression,
+Decision Tree,
+Linear Regression,
 Support Vector Machine
